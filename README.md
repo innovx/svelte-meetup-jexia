@@ -1,3 +1,4 @@
+[![Runme](https://svc.runme.io/static/button.svg)](https://runme.io/run?app_id=2e9fbed9-85a0-46f5-94fe-ce4281d5a929)
 
 # svelte-meetup-jexia
 A meetup clone using Svelte + Jexia. UI gently borrowed from https://github.com/roeeyn/MeetupClone ✌🏼
